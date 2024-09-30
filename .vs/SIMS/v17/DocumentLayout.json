@@ -1,0 +1,744 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\install\\Shlokaa-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|e:\\install\\shlokaa-main\\sims\\viewmodels\\materialmovementmodel\\materialmovementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:sims\\viewmodels\\materialmovementmodel\\materialmovementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\sims\\controllers\\materialmovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\materialmovementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\Views\\MaterialMovement\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\Views\\MaterialMovement\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\sims\\views\\materialmovement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\materialmovement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\Views\\Item\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\Views\\Item\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\cheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\cheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\gallerybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\gallerybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\itemsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\itemsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\vehiclelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\vehiclelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\unitofmeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\unitofmeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\trivia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\trivia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\spinningproduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\spinningproduction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\salesorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\salesorderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\salesorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\productsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\leaveapply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\leaveapply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\expensereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\expensereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\expenseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\expenseadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\accessmatrixdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\accessmatrixdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|E:\\install\\Shlokaa-main\\sims.bl\\accessmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D22E803-F164-4995-9D6C-341097022CDE}|SIMS.BL\\SIMS.BL.csproj|solutionrelative:sims.bl\\accessmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\Models\\AttendanceModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\Models\\AttendanceModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\Views\\Customer\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\Views\\Customer\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\Controllers\\StaffController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\Controllers\\StaffController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\sims\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\App_Start\\FilterConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\App_Start\\FilterConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|E:\\install\\Shlokaa-main\\SIMS\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A792316A-5057-4E90-9E56-5361DB42E526}|SIMS\\SIMS.csproj|solutionrelative:SIMS\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cheque.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\Cheque.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\Cheque.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\Cheque.cs",
+              "RelativeToolTip": "SIMS.BL\\Cheque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:25:53.8Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Views\\Item\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Item\\Create.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Views\\Item\\Create.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Item\\Create.cshtml",
+              "ViewState": "AQIAAJwAAAAAYGZmZuYswA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T09:04:55.949Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaterialMovementModel.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\ViewModels\\MaterialMovementModel\\MaterialMovementModel.cs",
+              "RelativeDocumentMoniker": "SIMS\\ViewModels\\MaterialMovementModel\\MaterialMovementModel.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\ViewModels\\MaterialMovementModel\\MaterialMovementModel.cs",
+              "RelativeToolTip": "SIMS\\ViewModels\\MaterialMovementModel\\MaterialMovementModel.cs",
+              "ViewState": "AQIAAFIAAADA+////186wF0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:16:03.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Index.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Index.cshtml",
+              "RelativeToolTip": "SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Index.cshtml",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAHcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T10:41:51.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Views\\MaterialMovement\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\MaterialMovement\\Index.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Views\\MaterialMovement\\Index.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\MaterialMovement\\Index.cshtml",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAAAEQBAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T09:04:55.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Views\\MaterialMovement\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\MaterialMovement\\Create.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Views\\MaterialMovement\\Create.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\MaterialMovement\\Create.cshtml",
+              "ViewState": "AQIAAOIAAACAeJmZmZkhwO8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T09:04:55.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterialMovementController.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Controllers\\MaterialMovementController.cs",
+              "RelativeDocumentMoniker": "SIMS\\Controllers\\MaterialMovementController.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Controllers\\MaterialMovementController.cs",
+              "RelativeToolTip": "SIMS\\Controllers\\MaterialMovementController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEgAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:37:09.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Edit.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Edit.cshtml",
+              "RelativeToolTip": "SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T13:15:33.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Create.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Create.cshtml",
+              "RelativeToolTip": "SIMS\\obj\\Release\\AspnetCompileMerge\\Source\\Views\\MaterialMovement\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T13:15:23.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Index.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Index.cshtml",
+              "RelativeToolTip": "SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Index.cshtml",
+              "ViewState": "AQIAACMAAADgl5mZmdkhwFcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T08:04:18.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Create.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Create.cshtml",
+              "RelativeToolTip": "SIMS\\obj\\Release\\Package\\PackageTmp\\Views\\MaterialMovement\\Create.cshtml",
+              "ViewState": "AQIAABkAAACAmpmZmZkewBcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T07:57:40.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemSize.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\ItemSize.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\ItemSize.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\ItemSize.cs",
+              "RelativeToolTip": "SIMS.BL\\ItemSize.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:31:48.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\Item.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\Item.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\Item.cs",
+              "RelativeToolTip": "SIMS.BL\\Item.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:31:16.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GalleryBl.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\GalleryBl.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\GalleryBl.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\GalleryBl.cs",
+              "RelativeToolTip": "SIMS.BL\\GalleryBl.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:31:00.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Trivia.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\Trivia.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\Trivia.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\Trivia.cs",
+              "RelativeToolTip": "SIMS.BL\\Trivia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:33:30.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfMeasurement.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\UnitOfMeasurement.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\UnitOfMeasurement.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\UnitOfMeasurement.cs",
+              "RelativeToolTip": "SIMS.BL\\UnitOfMeasurement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:33:37.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VehicleLog.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\VehicleLog.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\VehicleLog.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\VehicleLog.cs",
+              "RelativeToolTip": "SIMS.BL\\VehicleLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:34:19.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\Users.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\Users.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\Users.cs",
+              "RelativeToolTip": "SIMS.BL\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:33:44.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubCategory.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\SubCategory.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\SubCategory.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\SubCategory.cs",
+              "RelativeToolTip": "SIMS.BL\\SubCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:33:20.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SpinningProduction.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\SpinningProduction.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\SpinningProduction.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\SpinningProduction.cs",
+              "RelativeToolTip": "SIMS.BL\\SpinningProduction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:33:13.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalesOrderDetails.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\SalesOrderDetails.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\SalesOrderDetails.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\SalesOrderDetails.cs",
+              "RelativeToolTip": "SIMS.BL\\SalesOrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:33:06.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SalesOrder.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\SalesOrder.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\SalesOrder.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\SalesOrder.cs",
+              "RelativeToolTip": "SIMS.BL\\SalesOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:32:56.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductSize.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\ProductSize.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\ProductSize.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\ProductSize.cs",
+              "RelativeToolTip": "SIMS.BL\\ProductSize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:32:40.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Place.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\Place.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\Place.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\Place.cs",
+              "RelativeToolTip": "SIMS.BL\\Place.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:32:28.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\Payment.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\Payment.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\Payment.cs",
+              "RelativeToolTip": "SIMS.BL\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:32:20.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LeaveApply.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\LeaveApply.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\LeaveApply.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\LeaveApply.cs",
+              "RelativeToolTip": "SIMS.BL\\LeaveApply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:31:57.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\Gallery.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\Gallery.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\Gallery.cs",
+              "RelativeToolTip": "SIMS.BL\\Gallery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:30:34.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExpenseReport.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\ExpenseReport.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\ExpenseReport.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\ExpenseReport.cs",
+              "RelativeToolTip": "SIMS.BL\\ExpenseReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:30:22.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExpenseAdd.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\ExpenseAdd.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\ExpenseAdd.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\ExpenseAdd.cs",
+              "RelativeToolTip": "SIMS.BL\\ExpenseAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:30:09.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\Department.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\Department.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\Department.cs",
+              "RelativeToolTip": "SIMS.BL\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:29:57.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\Customer.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\Customer.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\Customer.cs",
+              "RelativeToolTip": "SIMS.BL\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:29:30.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\Category.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\Category.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\Category.cs",
+              "RelativeToolTip": "SIMS.BL\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:29:14.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccessMatrixDetails.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\AccessMatrixDetails.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\AccessMatrixDetails.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\AccessMatrixDetails.cs",
+              "RelativeToolTip": "SIMS.BL\\AccessMatrixDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T04:28:53.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccessMatrix.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS.BL\\AccessMatrix.cs",
+              "RelativeDocumentMoniker": "SIMS.BL\\AccessMatrix.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS.BL\\AccessMatrix.cs",
+              "RelativeToolTip": "SIMS.BL\\AccessMatrix.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:25:36.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Views\\Sales\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Sales\\Create.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Views\\Sales\\Create.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Sales\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T09:04:55.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "SIMS\\Controllers\\StaffController.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "SIMS\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAAEcAAAAAsDMzMzPxvwsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:04:55.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AQIAACYAAACAzMzMzMwnwC0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T09:04:55.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SIMS\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SIMS\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAFwAAACAAAAAAAAiwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:04:55.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T09:04:55.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AttendanceModel.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Models\\AttendanceModel.cs",
+              "RelativeDocumentMoniker": "SIMS\\Models\\AttendanceModel.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Models\\AttendanceModel.cs",
+              "RelativeToolTip": "SIMS\\Models\\AttendanceModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:04:55.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T09:04:55.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "SIMS\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "SIMS\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAQAAACA//////8gwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:04:55.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "SIMS\\App_Start\\FilterConfig.cs",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "SIMS\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:04:55.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\Web.config",
+              "RelativeDocumentMoniker": "SIMS\\Web.config",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\Web.config",
+              "RelativeToolTip": "SIMS\\Web.config",
+              "ViewState": "AQIAAGYAAAAAODMzMzP7vwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-27T09:04:55.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\install\\Shlokaa-main\\SIMS\\packages.config",
+              "RelativeDocumentMoniker": "SIMS\\packages.config",
+              "ToolTip": "E:\\install\\Shlokaa-main\\SIMS\\packages.config",
+              "RelativeToolTip": "SIMS\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-27T09:04:55.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
